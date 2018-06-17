@@ -13,9 +13,9 @@ Our team will be developing the web application "Campus Snapshots".
 
 ## 3. Data Definition
 
-Event: Image or video posted by site users along with descriptions to report campus issues or social activities.
-Power User: Administrative user in charge of keeping track of reports and monitoring site.
-User: Student, professor, faculty, or other user able to create an account and post events on site.
+1. Event: Image or video posted by site users along with descriptions to report campus issues or social activities.
+2. Power User: Administrative user in charge of keeping track of reports and monitoring site.
+3. User: Student, professor, faculty, or other user able to create an account and post events on site.
 
 
 ## 4. Overview, Scenarios and Use Cases
