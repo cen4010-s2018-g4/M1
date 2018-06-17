@@ -3,7 +3,8 @@
 
 ## 1. Executive Summary
 
-
+University students...         
+Our team will be developing the web application "Campus Snapshots".   
 
 
 ## 2. Competitive Analysis
@@ -12,9 +13,10 @@
 
 ## 3. Data Definition
 
-User:
-Power User:
-Event:
+Event: Image or video posted by site users along with descriptions to report campus issues or social activities.
+Power User: Administrative user in charge of keeping track of reports and monitoring site.
+User: Student, professor, faculty, or other user able to create an account and post events on site.
+
 
 ## 4. Overview, Scenarios and Use Cases
 
