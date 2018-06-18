@@ -80,7 +80,7 @@
 ## 7. High-Level System Architecture
 Software products and Tools: Brackets, Notepad++, Putty, WinSCP, FileZilla, GitHub, etc.<br>
 Languages and Systems: English, html, php, MySQL, Linux, Windows, MacOS, Mobiles , etc.<br>
-APIs: Calender, Weather.<br>
+APIs: Calendar, Weather.<br>
 Supported Browsers: Chrome, Firefox, Opera, Safari, Microsoft Edge, Internet Explorer.<br>
 Frameworks: html, php, css.
 
