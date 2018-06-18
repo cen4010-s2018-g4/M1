@@ -38,7 +38,7 @@
 15.	I as Non-registered user need Message/Chat service to be able to achieve the goal of talking online admins for help.
 
 ###Use-case diagram:
-
+![](image/Use-case_diagram.png)
 
 
 ## 5. Initial List of High-Level Functional Requirements
@@ -95,12 +95,12 @@ Carl Saintilmont: Development Team
 
 ## 9. Checklist
 
-a. Team decided on basic means of communications: DONE
-b. Team found a time slot to meet outside of the class: DONE
-c. Front and back end team leads chosen: DONE
-d. Github master chosen: DONE
-e. Team ready and able to use the chosen back and front-end frameworks: ON TRACK
-f. Skills of each team member defined and known to all: DONE
+a. Team decided on basic means of communications: DONE<br>
+b. Team found a time slot to meet outside of the class: DONE<br>
+c. Front and back end team leads chosen: DONE<br>
+d. Github master chosen: DONE<br>
+e. Team ready and able to use the chosen back and front-end frameworks: ON TRACK<br>
+f. Skills of each team member defined and known to all: DONE<br>
 g. Team lead ensured that all team members read the final M1 and agree/understand it before submission: ON TRACK
 
 
