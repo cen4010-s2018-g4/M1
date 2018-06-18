@@ -20,7 +20,25 @@
 
 ## 4. Overview, Scenarios and Use Cases
 
+**User Stories:**
+1.	I as Power user need verification service to be able to achieve the goal of verifying events posted by users.
+2.	I as Power user need Push Events service to be able to achieve the goal of posting new events as school’s events.
+3.	I as Power user need Post Managing service to be able to achieve the goal of deleting and editing system events and force deleting fault events from users.
+4.	I as Power user need Blocking service to be able to achieve the goal of blocking fault users.
+5.	I as Registered user need Posting service to be able to achieve the goal of posting new events.
+6.	I as Registered user need Post Managing service to be able to achieve the goal of deleting and editing my posted events.
+7.	I as Registered user need Post Sharing service to be able to achieve the goal of sharing interested events.
+8.	I as Registered user need Post Commenting service to be able to achieve the goal of adding comments in interested events.
+9.	I as Registered user need Post Searching service to be able to achieve the goal of browsing and searching for events.
+10.	I as Registered user need Profile managing service to be able to achieve the goal of editing my profile.
+11.	I as Registered user need Friend service to be able to achieve the goal of browsing, searching and adding my friends.
+12.	I as Registered user need Message/Chat service to be able to achieve the goal of talking to my friends and online admins.
+13.	I as Non-registered user need Register service to be able to achieve the goal of register and become a member.
+14.	I as Non-registered user need Post Searching service to be able to achieve the goal of browsing and searching for events.
+15.	I as Non-registered user need Message/Chat service to be able to achieve the goal of talking online admins for help.
 
+**Use-case diagram:**
+![](image/Use-case_diagram.png)
 
 
 ## 5. Initial List of High-Level Functional Requirements
@@ -60,26 +78,29 @@
 
 
 ## 7. High-Level System Architecture
-
-
+Software products and Tools: Brackets, Notepad++, Putty, WinSCP, FileZilla, GitHub, etc.<br>
+Languages and Systems: English, html, php, MySQL, Linux, Windows, MacOS, Mobiles , etc.<br>
+APIs: Calender, Weather.<br>
+Supported Browsers: Chrome, Firefox, Opera, Safari, Microsoft Edge, Internet Explorer.<br>
+Frameworks: html, php, css.
 
 
 ## 8. Team 
 
-Jessica Carmona Matos: Product Owner
-Tri Nguyen: Scrum Master
-Vinh Huynh: Development Team
+Jessica Carmona Matos: Product Owner<br>
+Tri Nguyen: Scrum Master<br>
+Vinh Huynh: Development Team<br>
 Carl Saintilmont: Development Team
 
 
 ## 9. Checklist
 
-a. Team decided on basic means of communications: DONE
-b. Team found a time slot to meet outside of the class: DONE
-c. Front and back end team leads chosen: DONE
-d. Github master chosen: DONE
-e. Team ready and able to use the chosen back and front-end frameworks: ON TRACK
-f. Skills of each team member defined and known to all: DONE
+a. Team decided on basic means of communications: DONE<br>
+b. Team found a time slot to meet outside of the class: DONE<br>
+c. Front and back end team leads chosen: DONE<br>
+d. Github master chosen: DONE<br>
+e. Team ready and able to use the chosen back and front-end frameworks: ON TRACK<br>
+f. Skills of each team member defined and known to all: DONE<br>
 g. Team lead ensured that all team members read the final M1 and agree/understand it before submission: ON TRACK
 
 
