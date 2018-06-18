@@ -20,7 +20,7 @@
 
 ## 4. Overview, Scenarios and Use Cases
 
-###User Stories:
+**User Stories:**
 1.	I as Power user need verification service to be able to achieve the goal of verifying events posted by users.
 2.	I as Power user need Push Events service to be able to achieve the goal of posting new events as school’s events.
 3.	I as Power user need Post Managing service to be able to achieve the goal of deleting and editing system events and force deleting fault events from users.
@@ -37,7 +37,7 @@
 14.	I as Non-registered user need Post Searching service to be able to achieve the goal of browsing and searching for events.
 15.	I as Non-registered user need Message/Chat service to be able to achieve the goal of talking online admins for help.
 
-###Use-case diagram:
+**Use-case diagram:**
 ![](image/Use-case_diagram.png)
 
 
