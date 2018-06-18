@@ -8,6 +8,9 @@
 
 ## 2. Competitive Analysis
 
+![comp](https://user-images.githubusercontent.com/39216383/41531016-9e93482c-7324-11e8-93a6-c85d4df17bb7.PNG)
+
+Campus Snapshots will have instant upload of images or videos like our competitors, Instagram and Snapshot. We will use a fluid chat system and will be able to monitor the content and use a system to block and ban bad comments and contents just as Facebook. Students will be able to search for event and friends. Finally, we will add a weather system to alert the students of major environmental threat. None of our competitor offers this option.
 
 
 
