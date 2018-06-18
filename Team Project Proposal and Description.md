@@ -8,7 +8,7 @@
 
 ## 2. Competitive Analysis
 
-
+![image](https://user-images.githubusercontent.com/39216383/41530281-4df694e8-7322-11e8-97c9-60a9271fc727.png)
 
 
 ## 3. Data Definition
